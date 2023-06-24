@@ -1,0 +1,58 @@
+.main{
+  text-align: center;
+  background-color: #fff600;
+
+}
+h1{
+  font-size: 5rem;
+  color: #346751;
+  font-family: 'Bad Script', cursive;
+  display: inline-block;
+  text-decoration: underline;
+}
+
+img{
+  margin: 0 3rem 0 3rem;
+}
+h3{
+  margin: 0 6rem 2rem 6rem;
+  font-size: 3rem;
+  color: #161616;
+  text-decoration: underline;
+}
+body{
+  margin: 0 0 0 0;
+}
+.h3{
+  display: inline-block;
+
+}
+.tag{
+  font-size: 2rem;
+color: #fff;
+text-decoration: none;
+margin-bottom: 2rem;
+}
+.tag:hover{
+color:red;
+}
+.footer{
+  background-color: 	#00cc99;
+  padding: 4rem;
+  text-align: center;
+}
+.insta{
+  font-size: 2rem;
+  color: #fff;
+}
+.fb{
+  font-size: 2rem;
+  color: #fff;
+  /* margin-left: 2rem; */
+}
+.fb:hover{
+  color: red;
+}
+.insta:hover{
+  color: red;
+}
